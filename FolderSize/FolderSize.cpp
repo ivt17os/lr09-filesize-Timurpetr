@@ -1,4 +1,4 @@
-// ПАВЛОВ АЛЕКСАНДР
+// Петров Тимур
 
 #include <windows.h>
 #include <stdio.h>
